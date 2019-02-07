@@ -4,8 +4,6 @@
 
 ### Granting Permissions
 ### ADD User to database if user does not exist
-*Remove and Re-Add each time script is executed*
-
 ```sql
 DECLARE @search varchar(200), 
 	@searchCount int, 
